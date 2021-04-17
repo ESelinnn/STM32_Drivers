@@ -1,0 +1,5 @@
+"Src/010i2c_master_tx_testing.o"
+"Startup/startup_stm32f407vgtx.o"
+"drivers/Src/stm32f407xx_gpip_driver.o"
+"drivers/Src/stm32f407xx_i2c_driver.o"
+"drivers/Src/stm32f407xx_spi_driver.o"
